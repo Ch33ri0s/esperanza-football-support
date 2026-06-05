@@ -1,7 +1,7 @@
 # Privacy Policy — Esperanza Football
 
 **Effective date:** 2026-04-20
-**Last updated:** 2026-04-20
+**Last updated:** 2026-06-05
 
 This policy explains what data the Esperanza Football mobile app ("the app") collects, why, and what your choices are. The app is a community tool for the Esperanza High School football program in Anaheim, California. It is maintained by a volunteer from the program, not by the school district itself.
 
@@ -43,9 +43,10 @@ The app displays publicly available information about the football program: team
 | **OneSignal** (onesignal.com) | Push notification delivery | Device push token, platform, subscription state — only for devices that opted in to notifications |
 | **Apple Push Notification service** | Delivers notifications on iOS | Relay only — Apple does not retain message content for this app |
 | **Google Firebase Cloud Messaging** | Delivers notifications on Android | Relay only — Google does not retain message content for this app |
-| **Google Fonts** (fonts.google.com) | Downloads the app's typeface at first launch | None — plain font file fetch, no identifying information |
 
 Each of the above providers has its own privacy policy; links on request.
+
+**Fonts.** The app's typefaces (Plus Jakarta Sans and Inter, both open-source) are bundled inside the app. It does not download fonts from Google — or contact any font server — at runtime, so no font request ever leaves your device.
 
 ## How long data is kept
 
