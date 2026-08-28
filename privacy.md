@@ -1,7 +1,11 @@
+---
+permalink: /privacy/
+---
+
 # Privacy Policy — Esperanza Football
 
 **Effective date:** 2026-04-20
-**Last updated:** 2026-06-05
+**Last updated:** 2026-08-28
 
 This policy explains what data the Esperanza Football mobile app ("the app") collects, why, and what your choices are. The app is a community tool for the Esperanza High School football program in Anaheim, California. It is maintained by a volunteer from the program, not by the school district itself.
 
@@ -17,7 +21,7 @@ This policy explains what data the Esperanza Football mobile app ("the app") col
 
 ### If you use the app without signing in (everyone except staff)
 
-- **Push notification identifiers**, only if you opt in to notifications. When you accept the notification prompt, the app sends our push provider (OneSignal) a device token plus your platform (iOS/Android). OneSignal uses these to deliver messages addressed to this device. No message content is stored by the app itself.
+- **Push notification identifiers**, only if you opt in to notifications. When you tap "Turn on" in the app and allow notifications, our push provider (OneSignal) receives a device token plus your platform (iOS/Android). OneSignal uses these to deliver messages addressed to this device. No message content is stored by the app itself.
 - **OS-level diagnostic data.** Apple and Google automatically collect crash reports and usage data at the platform level; neither the app nor its developer receives this. You control it in your device settings.
 
 We do **not** collect your name, email address, phone number, location, contacts, photos, or any other personal information.
@@ -57,8 +61,8 @@ Each of the above providers has its own privacy policy; links on request.
 ## Your choices
 
 - **Turn off push notifications.** Open the app, go to Settings, toggle "Push notifications" off. You can also revoke permission in your device settings; the app will stop receiving notifications.
-- **Remove your administrator account.** If you are a staff administrator, email the contact below and we will delete your account and any associated session data.
-- **Request deletion of a push token.** Email the contact below with the approximate date you first used the app and your device type; we will ask OneSignal to delete the associated record.
+- **Remove your administrator account.** If you are a staff administrator, follow the instructions on the [data deletion page](./data-deletion/). We will delete your authentication account and administrator authorization after verifying the request.
+- **Request deletion of a push token.** Follow the instructions on the [data deletion page](./data-deletion/) with your platform, device model, and approximate notification opt-in date so the OneSignal subscription can be located.
 
 Because no accounts are created for regular users, there is nothing to delete for families or fans who simply use the app to follow the team.
 
@@ -86,5 +90,7 @@ Questions, account deletion requests, or security reports:
 
 **Email:** tenysonpartridge@gmail.com
 **Subject line:** Please begin with "Esperanza Football app:"
+
+**Data deletion instructions:** [https://ch33ri0s.github.io/esperanza-football-support/data-deletion/](./data-deletion/)
 
 The app is operated by a single volunteer. Responses may take a few days. For urgent issues involving the school or the football program itself, contact Esperanza High School's athletic department directly.

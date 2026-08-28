@@ -2,4 +2,5 @@
 
 For support, contact: tenysonpartridge@gmail.com
 
-[Privacy Policy](./privacy-policy)
+- [Privacy policy](./privacy/)
+- [Data deletion](./data-deletion/)
